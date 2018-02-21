@@ -1,4 +1,4 @@
-# lyric_visualize_with_wordcloud
+# lyric_visualizer_with_wordcloud
 python3.x  
 ## How to use
     git clone https://github.com/nekoumei/lyric_visualize_with_wordcloud.git  
