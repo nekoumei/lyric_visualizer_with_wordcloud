@@ -1,9 +1,8 @@
 # lyric_visualize_with_wordcloud
 python3.x  
 ## How to use
-    git clone https://github.com/nekoumei/lyric_visualize_with_wordcloud.git
-run a program:  
-    python main.py
+    git clone https://github.com/nekoumei/lyric_visualize_with_wordcloud.git  
+run a program: `python main.py`  
 Caution:  
 * If you run main.py, he scrape some web pages with 5 seconds sleep.  
 * Before you run main.py, you have to write setting.ini  
